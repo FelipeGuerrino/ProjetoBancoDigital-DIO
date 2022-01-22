@@ -12,7 +12,8 @@ Esse projeto foi completo durante o bootcamp GFT Start Java 2022. [Link do proje
 
 #### Funcionalidades implementadas
 
-Biblioteca [Lombok](https://projectlombok.org/)
-Método imprimirRendimento()
-Método investir()
-Atributos: valorInvestido, rendimentoCDI, rendimentoPoupanca 
+
+* Biblioteca [Lombok](https://projectlombok.org/)
+* Método imprimirRendimento()
+* Método investir()
+* Atributos: valorInvestido, rendimentoCDI, rendimentoPoupanca 
